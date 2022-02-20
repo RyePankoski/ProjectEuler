@@ -27,5 +27,6 @@ public class Eu {
 			sum += e;
 
 		System.out.print(sum);
+    System.out.println("Hello Euler");
 	}
 }
